@@ -1,0 +1,4 @@
+# Runtime-зависимости проекта Ner_Gliner.
+psycopg2-binary>=2.9
+torch>=2.0
+gliner2>=1.0
